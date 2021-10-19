@@ -1,1 +1,1 @@
-# iScan-Deep-Learning-Framework-for-Colon-Cancer-Detection
+# iScan: Deep-Learning-Framework-for-Colon-Cancer-Detection
